@@ -14,7 +14,6 @@ import plotly.express as px
 
 dados_mca = pd.read_csv("estudantes_adapta.csv")
 # Fonte: adaptado de https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
-# Suzan et al.(2021) Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches - DOI: 10.1109/ICCCNT51525.2021.9579741
 dados_mca
 #%% Tabelas de frequências das variáveis
 
